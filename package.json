@@ -1,7 +1,7 @@
 {
-  "name": "Hites_Bot_EPA",
+  "name": "Ecert_Bot_EPA",
   "version": "1.0.0",
-  "description": "EPA Hites",
+  "description": "EPA Ecert",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

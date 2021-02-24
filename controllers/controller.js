@@ -10,7 +10,6 @@ const Config = require('../models/Configuracion');
 const Horarios = require('../models/Horarios');
 const Reportes = require('../models/Reporte');
 const localStorage = require('localStorage');
-const xmlParser = require('xml2json');
 const jquery = require('jquery');
 const moment = require('moment');
 const axios = require('axios');

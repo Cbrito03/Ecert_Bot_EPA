@@ -17,7 +17,7 @@ const removeStorage = local_storage.removeStorage;
 
 router.post('/message_EPA', async (req, res) => {
 
-	console.log("[BCI] :: [POST MESSAGE /message_EPA] ");
+	console.log("[Ecert] :: [POST MESSAGE /message_EPA] ");
 
 	var conversationID = req.body.conversationId;
 	var channel = req.body.channel;
